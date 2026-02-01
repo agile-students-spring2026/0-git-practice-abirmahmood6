@@ -11,3 +11,6 @@ From automating code generation and testing to improving project management and 
 I liked how the article breaks down AI’s impact across multiple areas: code generation, bug detection, testing, DevOps, UX design, and architecture planning.  
 It also explains how AI is becoming accessible not just to developers but also to non-technical users through no-code and low-code platforms.  
 The article gave me a clear picture of how AI is not replacing developers, but augmenting their work, allowing for more innovation and higher quality software.
+
+## Comment from Eddie Liu
+Great article. Thanks for sharing!
