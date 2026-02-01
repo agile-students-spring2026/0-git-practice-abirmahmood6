@@ -13,4 +13,4 @@ It also explains how AI is becoming accessible not just to developers but also t
 The article gave me a clear picture of how AI is not replacing developers, but augmenting their work, allowing for more innovation and higher quality software.
 
 ## Comment from Eddie Liu
-Great article. Thanks for sharing!
+Great article. Thanks for sharing! It's a nice overview of the connections between AI and specific SDLC tasks, and it frames AI as an accelerator rather than a replacement for developers. It's a great article to illsustrate where AI fits in day-to-day engineering work.
