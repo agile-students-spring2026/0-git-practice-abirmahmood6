@@ -12,10 +12,7 @@ I liked how the article breaks down AI’s impact across multiple areas: code ge
 It also explains how AI is becoming accessible not just to developers but also to non-technical users through no-code and low-code platforms.  
 The article gave me a clear picture of how AI is not replacing developers, but augmenting their work, allowing for more innovation and higher quality software.
 
-<<<<<<< HEAD
-=======
 ## Comment from Eddie Liu
 Great article. Thanks for sharing! It's a nice overview of the connections between AI and specific SDLC tasks, and it frames AI as an accelerator rather than a replacement for developers. It's a great article to illsustrate where AI fits in day-to-day engineering work.
->>>>>>> e2dd2e137c01de1014d564deab83fe7e5b0ca52c
 
 ## Note: Fixed Git configuration for course.
